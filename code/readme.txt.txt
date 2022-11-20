@@ -1,0 +1,3 @@
+程序运行方法：首先运行server文件夹里的server.py；然后运行client文件夹里的clientLauncher.py即可。
+
+注意：若未安装PyQt5的有关库可能无法运行！
